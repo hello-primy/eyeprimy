@@ -6,9 +6,9 @@
       quick-nav
       height="300px"
     >
-      <q-carousel-slide img-src="assets/kacamata/dummy1.jpg" />
-      <q-carousel-slide img-src="assets/kacamata/dummy2.jpg" />
-      <q-carousel-slide img-src="assets/kacamata/dummy3.jpg" />
+      <q-carousel-slide img-src="assets/kacamata/primy_banner1.jpg" />
+      <q-carousel-slide img-src="assets/kacamata/primy_banner2.jpg" />
+      <q-carousel-slide img-src="assets/kacamata/primy_banner3.jpg" />
     </q-carousel>
     <div class="layout-padding" style="margin-left: 10%">
       <q-card class="center" inline style="width: 45%">
