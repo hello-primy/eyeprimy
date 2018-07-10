@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <q-page>
     <q-carousel
       color="white"
       arrows
@@ -10,7 +10,7 @@
       <q-carousel-slide img-src="assets/kacamata/primy_banner2.jpg" />
       <q-carousel-slide img-src="assets/kacamata/primy_banner3.jpg" />
     </q-carousel>
-    <div class="layout-padding" style="margin-left: 10%">
+    <div class="row justify-center">
       <q-card class="center" inline style="width: 45%">
         <q-card-media>
           <img src="~assets/kacamata/dummy1.jpg">
@@ -59,7 +59,7 @@
         </q-card-media>
       </q-card>
     </div>
-  </div>
+  </q-page>
 </template>
 <script>
 export default {
